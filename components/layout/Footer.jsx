@@ -69,7 +69,7 @@ const Footer = () => {
         <div className="text-center mt-6">
           <p>
             © <span id="displayYear">2023</span> All Rights Reserved By 
-            <a href=""> EyESolutions</a>
+            <a href=""> MKDEV</a>
           </p>
         </div>
       </div>
