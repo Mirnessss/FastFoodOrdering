@@ -1,0 +1,72 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  @apply w-10/12;
+}
+
+.link-item {
+  @apply  hover:text-primary cursor-pointer transition-all;
+}
+
+.header-nav-link {
+  @apply px-[5px] py-[20px] uppercase;
+}
+
+.btn-primary {
+  @apply text-white px-[30px] py-[8px] rounded-3xl bg-primary hover:opacity-70 transition-all;
+}
+
+.slick-slider {
+  @apply max-sm:pl-[1.5rem] max-sm:pr-[1rem];
+}
+
+.slick-dots {
+  @apply !flex justify-start max-w-max relative align-middle sm:ml-[5rem];
+}
+
+.slick-dots .slick-active div{
+  @apply bg-primary w-[15px] h-[15px] !mt-[-2px];
+}
+
+.slick-dots div{
+  @apply !m-0;
+}
+
+.footer{
+  @apply bg-secondary text-white pt-16 pb-6
+}
+
+.footer .widget-container{
+  @apply flex md:justify-between justify-center text-center md:gap-y-0 gap-y-[30px] gap-x-10 flex-wrap
+}
+
+.footer a:hover{
+  @apply text-primary
+}
+
+.footer-social{
+  @apply flex justify-center gap-x-2 mt-5 mb-[10px]
+}
+
+.footer-social a{
+  @apply w-8 h-8 grid place-content-center bg-white text-secondary rounded-full
+}
+
+.profile-tab-link{
+  @apply border w-full p-3 cursor-pointer hover:bg-primary hover:text-white transition-all
+}
