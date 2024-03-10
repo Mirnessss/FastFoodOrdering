@@ -23,13 +23,13 @@ const Footer = () => {
               <div className="">
                 <a href="">
                   <i className="fa fa-envelope"></i>
-                  <span className="inline-block ml-2">kungsgrillen@gmail.com</span>
+                  <span className="inline-block ml-2">sultan@gmail.com</span>
                 </a>
               </div>
             </div>
           </div>
           <div className="md:flex-1 w-full">
-            <Title className="text-[30px] mb-4">Kungs Grillen</Title>
+            <Title className="text-[30px] mb-4">Sultan</Title>
             <div className="flex flex-col gap-y-[5px]">
               <div className="">
                 <p>Necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with</p>

@@ -1,6 +1,6 @@
 const Title = ({children, className}) => {
   return (
-    <div className={`${className} font-dancing font-bold`}>{children}</div>
+    <div className={`${className}  font-bold`}>{children}</div>
   )
 }
 

@@ -40,21 +40,15 @@ const Carousel = () => {
             
                 <div className="sm:ml-[5rem] text-white mt-48 !flex flex-col items-start gap-y-10 sm:w-full">
                     <Title className="text-[3.5rem]">Fast Food Restaurant</Title>
-                    <p className="text-sm sm:w-96 w-full">
-                        Doloremque, itaque aperiam facilis rerum, commodi, temporibus sapiente
-                        ad mollitia laborum quam quisquam esse error unde. Tempora ex
-                        doloremque, labore, sunt repellat dolore, iste magni quos nihil
-                        ducimus libero ipsam.
+                    <p className="text-xl sm:w-96 w-full">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, dignissimos!
                     </p>
                     <button className="btn-primary">Order Now!</button>
                 </div>
                 <div className="relative sm:ml-[5rem] text-white top-48 !flex flex-col items-start gap-y-10 sm:w-full">
                     <Title className="text-[3.5rem]">Fast Food Restaurant</Title>
-                    <p className="text-sm sm:w-96 w-full">
-                        Doloremque, itaque aperiam facilis rerum, commodi, temporibus sapiente
-                        ad mollitia laborum quam quisquam esse error unde. Tempora ex
-                        doloremque, labore, sunt repellat dolore, iste magni quos nihil
-                        ducimus libero ipsam.
+                    <p className="text-xl sm:w-96 w-full">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam eveniet blanditiis dicta dolores accusamus. Consectetur.
                     </p>
                     <button className="btn-primary">Order Now!</button>
                 </div>
