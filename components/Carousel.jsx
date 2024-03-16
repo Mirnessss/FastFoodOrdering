@@ -46,11 +46,11 @@ const Carousel = () => {
                     <button className="btn-primary">Order Now!</button>
                 </div>
                 <div className="relative sm:ml-[5rem] text-white top-48 !flex flex-col items-start gap-y-10 sm:w-full">
-                    <Title className="text-[3.5rem]">Fast Food Restaurant</Title>
+                    <Title className="text-[3.5rem]">Kungs Grillen</Title>
                     <p className="text-xl sm:w-96 w-full">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam eveniet blanditiis dicta dolores accusamus. Consectetur.
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                     </p>
-                    <button className="btn-primary">Order Now!</button>
+                    <button className="btn-primary">Contact us</button>
                 </div>
             
         </Slider>

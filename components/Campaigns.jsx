@@ -6,7 +6,7 @@ const Campaigns = () => {
 
     const CampaignItem = () => {
         return (
-            <div className="bg-secondary flex flex-1 rounded-md py-5 px-[15px] items-center gap-x-4">
+            <div className="bg-[#121212] flex flex-1 rounded-md py-5 px-[15px] items-center gap-x-4">
                 <div className="relative w-32 h-32  border-[5px] border-primary rounded-full overflow-hidden ">
                     <Image
                         src="/images/o1.jpg" className="hover:scale-105 transition-all"
