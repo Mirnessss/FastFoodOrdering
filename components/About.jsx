@@ -21,7 +21,7 @@ const About = () => {
             <div className="sm:w-1/2 max-sm:flex flex-wrap max-sm:mb-10 max-sm:justify-center sm:pl-5">
                 <Title className="text-[2.5rem] max-sm:text-center">We Are Kungs Grillen</Title>
                 <p className="my-5 max-sm:text-center">
-                    {"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don\'t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn\'t anything embarrassing hidden in the middle of text. All"}
+                    {"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All"}
                 </p>
                 <button className="btn-primary">Read More</button>
             </div>
